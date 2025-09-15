@@ -24,7 +24,7 @@ Bookmarklets are buttons basically in Bookmarks Bar when clicked can activate th
 
 You can also run scripts directly in the browser console:
 
-1. Go to the Cheats folder .
+1. Scroll up to the files.
 2. Pick the file that includes .js towards the end
 3. Copy the code altogether
 5. Press `F12` or `Ctrl+Shift+I` to open developer tools.
