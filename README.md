@@ -1,35 +1,5 @@
-# 🎮 Zobro's Blooket Hacks / Cheats GUI (V2.2)
-The best, pro, Blooket Hacks & Cheat GUI out there, containing over 5 repositories worth of cheats, for simplicity and fun.
-Modified from zips blooket cheats
-
-
-
-
-
-## ⚙️ Setup & Usage Instructions
-
-### 1. Using Bookmarklets
-
-Bookmarklets are buttons basically in Bookmarks Bar when clicked can activate the code embedded inside of it, executing and showing the GUI on the website. 
-
-1. Scroll up to the files
-2. Pick the file that includes min.js towards the end
-3. Copy the code.
-5. Go to "Bookmark Manager" then click the three dots then click "Add new bookmark"
-6. In the url area paste the code and for titile type whatever you want.
-7. Look for the bookmark on the Bookmark Bar. 
-8. Click the bookmark while on the Blooket game page to activate the cheat.
-
-### 2. Using the Browser Console
-
-You can also run scripts directly in the browser console:
-
-1. Scroll up to the files.
-2. Pick the file that includes .js towards the end
-3. Copy the code altogether
-5. Press `F12` or `Ctrl+Shift+I` to open developer tools.
-6. Go to the "Console" tab.
-7. Paste the code into there and press `Enter` to activate the GUI
+# NICO BLOOKET CHEATS
+' blooket.js ' es el archivo necesario
 
 ## 🧰 Cheats List
 
